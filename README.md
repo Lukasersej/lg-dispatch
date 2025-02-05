@@ -36,17 +36,10 @@ Dispatch notifications are sent containing only the alert name, omitting additio
 - Place this `setr ox:locale en` inside your `server.cfg`
 - Change the `en` to your desired language!
   
-**Supported Languages:**
-| **Alias**     | **Language Names** |
-|--------------|---------------|
-|en      |English    |
-|de      |German     |
-|nl      |Dutch      |
-|cs      |Czech      |
-|pt-br      |Brazilian Portuguese      |
-|es      |Spanish      |
+**Undersøttede sprog:**
+- Dansk
+- Engelsk
 
-# Preset Alert Exports.
 
 ```lua
 - exports['lg-dispatch']:ArtGalleryRobbery()
