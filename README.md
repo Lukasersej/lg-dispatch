@@ -1,17 +1,13 @@
-# lg Dispatch
+# lg-Dispatch
 
-Integrated with [lg-mdt](httlg://github.com/Project-Sloth/lg-mdt)
+For at få support til scriptet join min discord (https://discord.gg/xtMrDsxJEb)
 
-For all support questions, ask in our [Discord](httlg://www.discord.gg/projectsloth) support chat. 
-Do not create issues on GitHub if you need help. Issues are for bug reporting and new features only.
-
-# Depedency
+# andre scripts du SKAL bruge
 1. [qb-core](httlg://github.com/qbcore-framework/qb-core)
 2. [ox_lib](httlg://github.com/overextended/ox_lib)
-3. [lg-mdt](httlg://github.com/Project-Sloth/lg-mdt) - Optional but highly recommended.
 
-# Installation
-* Download ZIP
+# instilation
+* Download ZIP filen
 * Make sure your [qb-core](httlg://github.com/qbcore-framework/qb-core) is fully updated to the latest version.
 * Drag and drop resource into your server files
 * Start resource through server.cfg
