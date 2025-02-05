@@ -10,7 +10,8 @@ For at få support til scriptet join min discord (https://discord.gg/xtMrDsxJEb)
 * Download ZIP filen
 * Make sure your [qb-core](httlg://github.com/qbcore-framework/qb-core) is fully updated to the latest version.
 * Drag and drop resource into your server files
-* Start resource through server.cfg
+* start resourcen i din server.cfg fil - således
+* ensure lg-dispatch
 * Drag and drop sounds folder into interact-sound\client\html\sounds
 * Configure your [language](httlg://github.com/Project-Sloth/lg-dispatch#change-language)
 * Restart your server.
